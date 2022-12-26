@@ -13,7 +13,7 @@ src="https://3dviewer.net/embed.html#model=MODEL_URL$camera=169.48379,370.18722,
 ```
 You can modify the viewer size, the object color, background, ...etc by changing the attributes above: `height`, `width`, `backgroundcolor`, `defaultcolor`. Otherwise remove them for default settings.
 
-## That's it. Enjoy!
+## That's it. Enjoy! (please share and give us :star: )
 ![qay66-jsbrv](https://user-images.githubusercontent.com/26301932/209533463-43d2c736-eb44-4781-ac3e-39e66bbdd950.gif)
 
 ### 
