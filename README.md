@@ -1,7 +1,9 @@
 # Light 3D Viewer ( HTML component)
 An html component to view your 3D files of types: `obj`, `3ds`, `stl`, `ply`, `gltf`, `3dm`, `fbx`. 
 
-First , upload your 3D file to any server ( e.g. on github). Now use the following html component with replacing `MODEL_URL` with your 3D file url
+1- pload your 3D file to any server ( e.g. on github).
+
+2- Use the following html component with replacing `MODEL_URL` with your 3D file url.
 
 ```
 <iframe
