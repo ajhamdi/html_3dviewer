@@ -13,3 +13,6 @@ You can modify the viewer size, the object color, background, ...etc by changing
 
 ## That's it. Enjoy!
 ![qay66-jsbrv](https://user-images.githubusercontent.com/26301932/209533463-43d2c736-eb44-4781-ac3e-39e66bbdd950.gif)
+
+### 
+* This html coponent utlizes the great [online3dviewer](https://3dviewer.net/) framework.
